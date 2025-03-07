@@ -86,7 +86,7 @@ python backuptool.py job --target-directory /path/to/your/directory --interval 1
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./Instruction.md) file for details.
 
 ## Acknowledgments
 
