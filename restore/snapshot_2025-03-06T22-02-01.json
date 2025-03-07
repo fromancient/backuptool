@@ -1,0 +1,15 @@
+{
+    "timestamp": "2025-03-06T22-02-01",
+    "files": {
+        "C:\\Users\\Highway\\AppData\\Local\\Temp\\tmpupjustyi\\backup_test\\test1.txt": "dffd6021bb2bd5b0af676290809ec3a53191dd81c7f70a4b28688a362182986f",
+        "C:\\Users\\Highway\\AppData\\Local\\Temp\\tmpupjustyi\\backup_test\\test2.txt": "f29bc64a9d3732b4b9035125fdb3285f5b6455778edca72414671e0ca3b2e0de",
+        "C:\\Users\\Highway\\AppData\\Local\\Temp\\tmpupjustyi\\backup_test\\test3.txt": "eaaec9e086e3a952d4c82fbd3dab76913aacfee24fe71a4baf15ba153af218e8"
+    },
+    "file_contents": {
+        "dffd6021bb2bd5b0af676290809ec3a53191dd81c7f70a4b28688a362182986f": "SGVsbG8sIFdvcmxkIQ==",
+        "f29bc64a9d3732b4b9035125fdb3285f5b6455778edca72414671e0ca3b2e0de": "VGhpcyBpcyBhIHRlc3QgZmlsZS4=",
+        "eaaec9e086e3a952d4c82fbd3dab76913aacfee24fe71a4baf15ba153af218e8": "QmFja3VwIGFuZCByZXN0b3JlIGZ1bmN0aW9uYWxpdHkgd29ya3Mu"
+    },
+    "directory_size": 72,
+    "snapshot_size": 72
+}
