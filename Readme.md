@@ -91,7 +91,3 @@ This project is licensed under the MIT License - see the [LICENSE](./Instruction
 ## Acknowledgments
 
 - Thanks to the open-source community for the frameworks and libraries that make this possible.
-
----
-
-Feel free to modify any sections based on your project's needs or any additional instructions or examples you'd like included!
