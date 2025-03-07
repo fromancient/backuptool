@@ -1,7 +1,3 @@
-Sure! Here is a README.md template that outlines the usage, features, and CLI commands of your backup tool script, including the new snapshot job functionality.
-
----
-
 # Backup Tool
 
 ## Overview
